@@ -41,7 +41,7 @@ The TriggerBot automatically clicks the mouse when an enemy is detected within a
  
 ## İnstallation
 ```bash
-git clone https://github.com/xberkay-o/Trigger-Bot
+git clone https://github.com/xberkayio/Trigger-Bot
 ```
 ```bash
 cd Trigger-Bot
